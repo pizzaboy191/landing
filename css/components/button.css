@@ -1,0 +1,16 @@
+.btn-treehouse {
+  color: white;
+  background-color: #6C63FF;
+  border-radius: 4px;
+  font-weight: bold;
+  padding: 15px 25px;
+  transition: .3s;
+  opacity: 0.8;
+  display: inline-block;
+  margin: 15px;
+}
+
+.btn-treehouse:hover {
+  opacity: 1;
+  background-color: #6C63FF;
+}

@@ -1,0 +1,24 @@
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.card{
+  border: 1px solid lightgrey;
+  box-shadow: 0 0 5px lightgrey;
+  padding: 16px;
+  width: 200px;
+  text-align: center;
+}
+.card img{
+  width: 150px;
+  height: 100px;
+}
+
+.card p{
+  color:black;
+}
+.container-title{
+  text-align: center;
+}
